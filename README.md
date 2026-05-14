@@ -1,4 +1,3 @@
-# healthcare-churn-analysis
 # Predicting Patient Churn in a Community Healthcare Setting
 
 ## Project Overview
